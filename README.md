@@ -1,8 +1,5 @@
-bay-area-meetup
-===============
-
 CloudFormation with Eucalyptus
-------------------------------
+==============================
 * __Eucalyptus 4.0 - Ec2, IAM, CloudWatch, ELB, AutoScaling actions__
 * __Eucalyptus 4.1 - S3 actions and wait conditions__
 

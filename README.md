@@ -10,11 +10,11 @@ CloudFormation with Eucalyptus
 * Delete stack cleans up resources
 
 ### Tools
-* AWS Java SDK
-* Boto
-* Troposphere
-* euca2ools
-* Eucalobo
+* [AWS Java SDK] (https://github.com/aws/aws-sdk-java)
+* [Boto] (https://github.com/boto/boto)
+* [Troposphere] (https://github.com/cloudtools/troposphere)
+* [euca2ools] (https://github.com/eucalyptus/euca2ools)
+* [Eucalobo] (https://github.com/viglesiasce/EucaLobo)
 
 
 ### Ec2 Actions
